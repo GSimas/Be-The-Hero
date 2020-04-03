@@ -1,12 +1,12 @@
 <h4 align="center">
-<img src="./img/logo3x.png" width="250px" /><br>
- <h1 align="center">🦸‍Be The Hero</h1>
+<img src="./img/logo.png" width="250px" /><br>
+ <img src="./img/rocket.png" width="250px" /><br>
 </h4>
 
 <br>
 
 ### :rocket: Tecnologias usadas
-Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
@@ -37,6 +37,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ### :muscle: Referências
 
+- [Rocketseat](https://rocketseat.com.br/)
 - [Diego Fernandes](https://github.com/diego3g)
 - [João Carli](https://github.com/fl4m3x)
 

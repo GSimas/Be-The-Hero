@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 400 14px 'Montserrat', sans-serif;
+    background: #F0F0F5;
+    -webkit-font-smoothing: antialiased;
+}
+
+input, button, textarea {
+    font: 400 18px 'Montserrat', sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+form input {
+    width: 100%;
+    height: 60px;
+    color: #333333;
+    border: 1px solid #dcdce6;
+    border-radius: 10px;
+    padding: 0 24px;
+}
+
+form textarea {
+    width: 100%;
+    min-height: 140px;
+    color: #333333;
+    border: 1px solid #dcdce6;
+    border-radius: 10px;
+    padding: 16px 24px;
+    line-height: 24px;
+    resize: vertical;
+}
+
+.button{
+    width: 100%;
+    height: 60px;
+    background: #E02041;
+    border: 0;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    line-height: 60px;
+    transition: filter 0.2s;
+}
+
+.button:hover{
+    filter: brightness(90%);
+}
+
+.back-link{
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    color: #41414D;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: normal;
+    transition: opacity 0.2s;
+}
+
+.back-link svg{
+    margin-right: 18px;
+}
+
+.back-link:hover{
+    opacity: 0.8;
+}
